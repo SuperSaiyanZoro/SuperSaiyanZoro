@@ -14,14 +14,6 @@ Welcome to my repository showcasing the certifications I’ve earned during my j
 
 ---
 
-### 2. Introduction to Career Skills in Software Development  
-- **Issued by:** [Issuing Organization]  
-- **Date Completed:** November 27, 2024  
-- **Skills Gained:** Software Development, Career Management, and Tech Career Skills.  
-- **Certificate ID:** d3c34e8a3d1a452363d8c36f824a8b1564b68294f90ab3c41c53077e81fe5973  
-
----
-
 ## 🚀 About Me  
 I am Sai Charan Reddy Medagam, passionate about technology and driven by the desire to build a strong foundation in cybersecurity, software development, and beyond. My learning journey reflects my commitment to staying ahead in the dynamic tech landscape.  
 
