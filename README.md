@@ -24,3 +24,4 @@ I am Sai Charan Reddy Medagam, passionate about technology and driven by the des
 - **GitHub:** [Your GitHub Profile](#)  
 
 Feel free to explore this repository to view the certifications that reflect my skills and dedication! 😊
+
